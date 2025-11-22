@@ -1,6 +1,6 @@
 # UI-UX-Experiment5
-#### Name : BALAJI A
-#### Reg No : 212223040023
+#### Name : D.Rajeshwaran
+#### Reg No : 212223040165
 
 
 ## AIM
